@@ -555,6 +555,14 @@ mark,
   margin-left: 42%;
 }
 
+.c1 {
+  margin: auto;
+}
+
+.g1 {
+  margin: auto;
+}
+
 .loader {
   position: fixed;
   top: 0;
